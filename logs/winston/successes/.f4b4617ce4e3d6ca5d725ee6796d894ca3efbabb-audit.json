@@ -1,0 +1,55 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "C:\\Users\\omieh\\RunnigProjects\\nextJs\\healthCareProject\\nextjs-healthcare-server\\logs\\winston\\successes\\.f4b4617ce4e3d6ca5d725ee6796d894ca3efbabb-audit.json",
+    "files": [
+        {
+            "date": 1711089073713,
+            "name": "C:\\Users\\omieh\\RunnigProjects\\nextJs\\healthCareProject\\nextjs-healthcare-server\\logs\\winston\\successes\\phu-2024-22-03-12-success.log",
+            "hash": "4c25c0adaa9017d6b2d940b9b9c01d6e7429ff19200fd970335649e462c8f87d"
+        },
+        {
+            "date": 1711176361028,
+            "name": "C:\\Users\\omieh\\RunnigProjects\\nextJs\\healthCareProject\\nextjs-healthcare-server\\logs\\winston\\successes\\phu-2024-23-03-12-success.log",
+            "hash": "c528d3b6628e09c0c47d60d133c055cd6567bcf877969d8a5f5941038998e820"
+        },
+        {
+            "date": 1711191656213,
+            "name": "C:\\Users\\omieh\\RunnigProjects\\nextJs\\healthCareProject\\nextjs-healthcare-server\\logs\\winston\\successes\\phu-2024-23-03-17-success.log",
+            "hash": "d8daac9065121ad23b8791157e0937a51b15c62fca3cf176d525545bb5014e27"
+        },
+        {
+            "date": 1711201877403,
+            "name": "C:\\Users\\omieh\\RunnigProjects\\nextJs\\healthCareProject\\nextjs-healthcare-server\\logs\\winston\\successes\\phu-2024-23-03-19-success.log",
+            "hash": "6e400547f6c180b9d865bc66dcdaa222365c6e2a42833fd0d35f10a70bb59cd8"
+        },
+        {
+            "date": 1711218763660,
+            "name": "C:\\Users\\omieh\\RunnigProjects\\nextJs\\healthCareProject\\nextjs-healthcare-server\\logs\\winston\\successes\\phu-2024-24-03-00-success.log",
+            "hash": "f99450ecb4770d2a1e08a870d13364a3ad355f7ad379058f8fd8bf93a5769188"
+        },
+        {
+            "date": 1711302333199,
+            "name": "C:\\Users\\omieh\\RunnigProjects\\nextJs\\healthCareProject\\nextjs-healthcare-server\\logs\\winston\\successes\\phu-2024-24-03-23-success.log",
+            "hash": "0f834843d93b95605d9171aa5934fc33eca97956e2892605c7fc87dbd1e93885"
+        },
+        {
+            "date": 1711476817119,
+            "name": "C:\\Users\\omieh\\RunnigProjects\\nextJs\\healthCareProject\\nextjs-healthcare-server\\logs\\winston\\successes\\phu-2024-27-03-00-success.log",
+            "hash": "425cbdd823a9262bd57d22e828abf17ed71409eff8c54e0413492cb8ef95bf86"
+        },
+        {
+            "date": 1711561912347,
+            "name": "C:\\Users\\omieh\\RunnigProjects\\nextJs\\healthCareProject\\nextjs-healthcare-server\\logs\\winston\\successes\\phu-2024-27-03-23-success.log",
+            "hash": "0cb2c4573dcfe5bef7fee78d55fdff028760854c763b93fd0043a49c8cfd50f7"
+        },
+        {
+            "date": 1711820635689,
+            "name": "C:\\Users\\omieh\\RunnigProjects\\nextJs\\healthCareProject\\nextjs-healthcare-server\\logs\\winston\\successes\\phu-2024-30-03-23-success.log",
+            "hash": "446888f1c18aeca4acba8bbf5c89b73d28646d90f77fa7d4b87c07ab3eed5d4c"
+        }
+    ],
+    "hashType": "sha256"
+}
