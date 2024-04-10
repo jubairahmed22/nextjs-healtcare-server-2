@@ -6,86 +6,6 @@
     "auditLog": "C:\\Users\\omieh\\RunnigProjects\\nextJs\\healthCareProject\\nextjs-healthcare-server\\logs\\winston\\errors\\.f55579a9145cf8801c3dd7594445e0d18702d87e-audit.json",
     "files": [
         {
-            "date": 1711089073718,
-            "name": "C:\\Users\\omieh\\RunnigProjects\\nextJs\\healthCareProject\\nextjs-healthcare-server\\logs\\winston\\errors\\phu-2024-22-03-12-error.log",
-            "hash": "1c76dec3e0ed378eeb8074ff888640b040c9b9c30ea1fd2087ce35eec882414f"
-        },
-        {
-            "date": 1711097464086,
-            "name": "C:\\Users\\omieh\\RunnigProjects\\nextJs\\healthCareProject\\nextjs-healthcare-server\\logs\\winston\\errors\\phu-2024-22-03-14-error.log",
-            "hash": "aa2e4ac45124bdbfe4f927a1847299cd55707b3ef8cc0c7ff74adc2bab9d162c"
-        },
-        {
-            "date": 1711098004474,
-            "name": "C:\\Users\\omieh\\RunnigProjects\\nextJs\\healthCareProject\\nextjs-healthcare-server\\logs\\winston\\errors\\phu-2024-22-03-15-error.log",
-            "hash": "0bf9a4891472df4cfad7f46504671fe48a288c418768c86189d7de33f82fc3c4"
-        },
-        {
-            "date": 1711101605065,
-            "name": "C:\\Users\\omieh\\RunnigProjects\\nextJs\\healthCareProject\\nextjs-healthcare-server\\logs\\winston\\errors\\phu-2024-22-03-16-error.log",
-            "hash": "2c4f510e983a3c3fb8b77a20728ef5cc822296688f0989e63330a4589c20e051"
-        },
-        {
-            "date": 1711105204958,
-            "name": "C:\\Users\\omieh\\RunnigProjects\\nextJs\\healthCareProject\\nextjs-healthcare-server\\logs\\winston\\errors\\phu-2024-22-03-17-error.log",
-            "hash": "441ac599a364b9998a2773666a6bd5a59f73f260831028cd305ce180a81dd948"
-        },
-        {
-            "date": 1711130884314,
-            "name": "C:\\Users\\omieh\\RunnigProjects\\nextJs\\healthCareProject\\nextjs-healthcare-server\\logs\\winston\\errors\\phu-2024-23-03-00-error.log",
-            "hash": "a68f91dda0e468a8595891b06dc0676f86031233e61d80c9fe90c8baca14c00a"
-        },
-        {
-            "date": 1711176361038,
-            "name": "C:\\Users\\omieh\\RunnigProjects\\nextJs\\healthCareProject\\nextjs-healthcare-server\\logs\\winston\\errors\\phu-2024-23-03-12-error.log",
-            "hash": "169808d22eb3be863ead8555de443bd1f154b7425f88e917da6a6f93f7e43677"
-        },
-        {
-            "date": 1711177204479,
-            "name": "C:\\Users\\omieh\\RunnigProjects\\nextJs\\healthCareProject\\nextjs-healthcare-server\\logs\\winston\\errors\\phu-2024-23-03-13-error.log",
-            "hash": "a9959d21b84ebc702c267e03a9f05411becc10dc4b56a013288ba8ec342a2000"
-        },
-        {
-            "date": 1711180804847,
-            "name": "C:\\Users\\omieh\\RunnigProjects\\nextJs\\healthCareProject\\nextjs-healthcare-server\\logs\\winston\\errors\\phu-2024-23-03-14-error.log",
-            "hash": "6cfa8fba5eccc1ae7c30accca64a3408dc5141829dc7fc155e95d1bf973a48ad"
-        },
-        {
-            "date": 1711191184367,
-            "name": "C:\\Users\\omieh\\RunnigProjects\\nextJs\\healthCareProject\\nextjs-healthcare-server\\logs\\winston\\errors\\phu-2024-23-03-16-error.log",
-            "hash": "3a97d1a8ff6b5bcd712b60205d8ab6d4d4be3c0a70871c44495f6dd850302a36"
-        },
-        {
-            "date": 1711191604806,
-            "name": "C:\\Users\\omieh\\RunnigProjects\\nextJs\\healthCareProject\\nextjs-healthcare-server\\logs\\winston\\errors\\phu-2024-23-03-17-error.log",
-            "hash": "3a34de74f1538253e23581865fdbcb59dc5dfaf51a320ac2014650fc3d6775b4"
-        },
-        {
-            "date": 1711195204442,
-            "name": "C:\\Users\\omieh\\RunnigProjects\\nextJs\\healthCareProject\\nextjs-healthcare-server\\logs\\winston\\errors\\phu-2024-23-03-18-error.log",
-            "hash": "e0056cd40ea2635941659e96fa14975a1dbfbb52649a191a983db7fd3efd7484"
-        },
-        {
-            "date": 1711201204148,
-            "name": "C:\\Users\\omieh\\RunnigProjects\\nextJs\\healthCareProject\\nextjs-healthcare-server\\logs\\winston\\errors\\phu-2024-23-03-19-error.log",
-            "hash": "4a19f3c706fdb2636238f1589720f7437bc75e233329d720c3f084300c99a91e"
-        },
-        {
-            "date": 1711218763670,
-            "name": "C:\\Users\\omieh\\RunnigProjects\\nextJs\\healthCareProject\\nextjs-healthcare-server\\logs\\winston\\errors\\phu-2024-24-03-00-error.log",
-            "hash": "e4d4d3876ee8a07727ba44cffeaff2234966ada67da3bd544d71321f64c0784a"
-        },
-        {
-            "date": 1711302333209,
-            "name": "C:\\Users\\omieh\\RunnigProjects\\nextJs\\healthCareProject\\nextjs-healthcare-server\\logs\\winston\\errors\\phu-2024-24-03-23-error.log",
-            "hash": "f55d11c0b9b4c56ac3233771d1f5918081473568691d4fc06252b729ecbe7c85"
-        },
-        {
-            "date": 1711476817129,
-            "name": "C:\\Users\\omieh\\RunnigProjects\\nextJs\\healthCareProject\\nextjs-healthcare-server\\logs\\winston\\errors\\phu-2024-27-03-00-error.log",
-            "hash": "b5ea90e5f60cfda145c9d3221d4bc3281c73f0472217722a52810614204823f6"
-        },
-        {
             "date": 1711561912361,
             "name": "C:\\Users\\omieh\\RunnigProjects\\nextJs\\healthCareProject\\nextjs-healthcare-server\\logs\\winston\\errors\\phu-2024-27-03-23-error.log",
             "hash": "150c437ad84d93babd690df9dbe29e479163ad9b6a1211e8788a113b24955732"
@@ -94,6 +14,51 @@
             "date": 1711820635701,
             "name": "C:\\Users\\omieh\\RunnigProjects\\nextJs\\healthCareProject\\nextjs-healthcare-server\\logs\\winston\\errors\\phu-2024-30-03-23-error.log",
             "hash": "3fe4b7eb987d752f589e3397d12a5ffef9041ec6930df8dec3a7b45f082a017e"
+        },
+        {
+            "date": 1711911041695,
+            "name": "C:\\Users\\omieh\\RunnigProjects\\nextJs\\healthCareProject\\nextjs-healthcare-server\\logs\\winston\\errors\\phu-2024-01-04-00-error.log",
+            "hash": "f3a631b806e8b54ae4dcd9c1041634a37a8c786cef4896abe558f24925f62e19"
+        },
+        {
+            "date": 1711990283966,
+            "name": "C:\\Users\\omieh\\RunnigProjects\\nextJs\\healthCareProject\\nextjs-healthcare-server\\logs\\winston\\errors\\phu-2024-01-04-22-error.log",
+            "hash": "5ec3cb4d618bd9af64206b7d28ab32f5cbc9ad5fc1ac5d9ece483a23ca96debf"
+        },
+        {
+            "date": 1712081816819,
+            "name": "C:\\Users\\omieh\\RunnigProjects\\nextJs\\healthCareProject\\nextjs-healthcare-server\\logs\\winston\\errors\\phu-2024-03-04-00-error.log",
+            "hash": "ca1d4c009338ae7320bb0e3a20d65964cfd8be1424e29b4cf155caff53c87308"
+        },
+        {
+            "date": 1712167332670,
+            "name": "C:\\Users\\omieh\\RunnigProjects\\nextJs\\healthCareProject\\nextjs-healthcare-server\\logs\\winston\\errors\\phu-2024-04-04-00-error.log",
+            "hash": "5789e80e6b6f9696f31a8ec481b822e417200086c0b7b31fe11fc0a9d55f483a"
+        },
+        {
+            "date": 1712396452155,
+            "name": "C:\\Users\\omieh\\RunnigProjects\\nextJs\\healthCareProject\\nextjs-healthcare-server\\logs\\winston\\errors\\phu-2024-06-04-15-error.log",
+            "hash": "5aa267feaf4b860fcf0818ad48754ceb4388841c7211e70eaecb490a7d93c826"
+        },
+        {
+            "date": 1712513713392,
+            "name": "C:\\Users\\omieh\\RunnigProjects\\nextJs\\healthCareProject\\nextjs-healthcare-server\\logs\\winston\\errors\\phu-2024-08-04-00-error.log",
+            "hash": "17ae0f0315b8b8d51868e614fdebaffdb46e24cc6809fb873e3ec670a3839432"
+        },
+        {
+            "date": 1712648390926,
+            "name": "C:\\Users\\omieh\\RunnigProjects\\nextJs\\healthCareProject\\nextjs-healthcare-server\\logs\\winston\\errors\\phu-2024-09-04-13-error.log",
+            "hash": "5c670edab2ba4f7408244ec350eada03f6a8984357e53adcd1cd9e5f36a9025f"
+        },
+        {
+            "date": 1712746607001,
+            "name": "C:\\Users\\omieh\\RunnigProjects\\nextJs\\healthCareProject\\nextjs-healthcare-server\\logs\\winston\\errors\\phu-2024-10-04-16-error.log",
+            "hash": "55fa0bfc60f5eaeb42e0f66355d633e81820b6f334666bc769ef6b23e95e8d06"
+        },
+        {
+            "date": 1712749616926,
+            "name": "C:\\Users\\omieh\\RunnigProjects\\nextJs\\healthCareProject\\nextjs-healthcare-server\\logs\\winston\\errors\\phu-2024-10-04-17-error.log",
+            "hash": "41c43c2eda46d15a6d35ab81414cb787686c074fdcb367f6097a66b0e325d04b"
         }
     ],
     "hashType": "sha256"
